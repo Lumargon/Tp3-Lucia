@@ -22,4 +22,4 @@ Trabajo de Programación.
 -Tras la ejecución, podremos comprobar cómo en la misma carpeta se ha creado un nuevo fichero llamado 'file11'.
 
 # Objetivo del Programa
--El objetico de este programa es la corrección de contenido str mal expresado en términos linguísticos en cuanto a puntuaciones y mayúsculas pertinentes se refiere.
+-El objetivo de este programa es la corrección de contenido str mal expresado en términos linguísticos en cuanto a puntuaciones y mayúsculas pertinentes se refiere.
