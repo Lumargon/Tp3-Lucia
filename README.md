@@ -15,7 +15,8 @@ Trabajo de Programación.
 
 # Ejecución del Programa
 -Se ejecuta desde la terminal de la máquina.
--El comando que habrá que escribirse es el siguiente(en linux): python3 copy.py mifile.txt.
+
+-El comando que habrá que escribirse es el siguiente(en linux): python3 copy.py
 
 -El resultado del script saldrá en la pantalla del terminal.
 
